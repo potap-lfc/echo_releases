@@ -4,7 +4,7 @@
 
 ## Установка
 
-[Скачать последнюю версию](https://github.com/potap-lfc/echo-releases/releases/latest/download/app-release.apk)
+[Скачать последнюю версию](https://github.com/potap-lfc/echo_releases/releases/latest/download/app-release.apk)
 
 1. Открой скачанный файл
 2. Если Android попросит — разреши установку из неизвестных источников
@@ -14,4 +14,4 @@
 
 ## Версии
 
-Все релизы и список изменений — на странице [Releases](https://github.com/potap-lfc/echo-releases/releases).
+Все релизы и список изменений — на странице [Releases](https://github.com/potap-lfc/echo_releases/releases).
